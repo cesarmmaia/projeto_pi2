@@ -1,2 +1,2 @@
-# projeto_pi2
-Exemplo para o projeto integrador 2 da Univesp
+# api_rest
+Exemplo para criar API Rest com Flask
